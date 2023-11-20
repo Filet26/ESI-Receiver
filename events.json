@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "received_timestamp": "2023-09-19T08:39:05Z",
+      "request_data": "device 2a55h in home 1a22g has a power_usage of 1045 watts. the cost of electricity is $0.008 per kWh."
+    },
+    {
+      "received_timestamp": "2023-09-19T08:38:56Z",
+      "request_data": "device 2a55h in home 1a22g has a power_usage of 1045 watts. the cost of electricity is $0.008 per kWh."
+    },
+    {
+      "received_timestamp": "2023-09-19T08:38:55Z",
+      "request_data": "device 2a55h in home 1a22g has a power_usage of 1045 watts. the cost of electricity is $0.008 per kWh."
+    },
+    {
+      "received_timestamp": "2023-09-19T08:38:54Z",
+      "request_data": "device 2a55h in home 1a22g has a power_usage of 1045 watts. the cost of electricity is $0.008 per kWh."
+    },
+    {
+      "received_timestamp": "2023-09-19T08:37:37Z",
+      "request_data": "device 2a in home 1a has a temperature of 23.4 degrees Celsius, and a humidity of 99.3%."
+    },
+    {
+      "received_timestamp": "2023-09-19T08:37:37Z",
+      "request_data": "device 2a in home 1a has a temperature of 23.4 degrees Celsius, and a humidity of 99.3%."
+    },
+    {
+      "received_timestamp": "2023-09-19T08:37:37Z",
+      "request_data": "device 2a in home 1a has a temperature of 23.4 degrees Celsius, and a humidity of 99.3%."
+    },
+    {
+      "received_timestamp": "2023-09-19T08:37:37Z",
+      "request_data": "device 2a in home 1a has a temperature of 23.4 degrees Celsius, and a humidity of 99.3%."
+    },
+    {
+      "received_timestamp": "2023-09-19T08:37:37Z",
+      "request_data": "device 2a in home 1a has a temperature of 23.4 degrees Celsius, and a humidity of 99.3%."
+    },
+    {
+      "received_timestamp": "2023-09-19T08:37:37Z",
+      "request_data": "device 2a in home 1a has a temperature of 23.4 degrees Celsius, and a humidity of 99.3%."
+    }
+  ]
+}
