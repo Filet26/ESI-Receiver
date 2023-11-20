@@ -3,19 +3,21 @@
 # Date: 2023-09-12
 # Class: ACIT 3855
 
-import connexion
-from connexion import NoContent
 import json
 import datetime
 import os
 import threading
-import requests
-import yaml
 import logging
 import logging.config
 import uuid
-from pykafka import KafkaClient
 import time
+
+import connexion
+from connexion import NoContent
+import requests
+import yaml
+from pykafka import KafkaClient
+
 
 #  constants
 # MAX_EVENTS = 10
